@@ -1,6 +1,10 @@
 import math
 <<<<<<< HEAD
+<<<<<<< HEAD
 import path
+=======
+print "Hello";
+>>>>>>> goods
 =======
 print "Hello";
 >>>>>>> goods
